@@ -1,3 +1,12 @@
+## 记录
+```
+改了不少东西，不过基本原理都是走的通的
+问题都记录在evernote里《记录- Java - Spring cloud - Spring Boot - 17.6.20》
+
+```
+
+
+
 ## Spring cloud 7day simple
 
 **7simple**总共有7个例子，展示了spring cloud的基本用法。

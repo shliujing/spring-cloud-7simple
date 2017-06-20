@@ -1,9 +1,10 @@
 # General
 # IntelliJ IDEA
 .idea/*
-/.idea
+*.log
 *.iml
-target
+test/
+target/*
 .DS_Storecd
 .git
 .properties
